@@ -7,6 +7,8 @@ This dataset contains 4242 images of flowers.
 The data collection is based on the data flicr, google images, yandex images.
 You can use this datastet to recognize plants from the photo.
 
+**Visit the blog here -** [Flowers Recognition](https://hrushi11.github.io/Heights-for-AI/Flowers_Recognition/)
+
 **Content :**
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
 For each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!
