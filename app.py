@@ -39,7 +39,7 @@ def load_and_prep_image(image):
 
 def url_uploader():
     st.set_option('deprecation.showfileUploaderEncoding', False)
-    st.text("Provide Url for Flower Recongnition")
+    st.text("Provide Url for Flower Recognition")
     
     path = st.text_input("Enter image Url to classify...", "https://raw.githubusercontent.com/Hrushi11/Flowers-Recognition/main/images/rose.jpg")
     if path is not None:
