@@ -1,6 +1,6 @@
 # Flowers-Recognition
 
-Live link for the Web - [Flower Recongnition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
+Live link for the Web - [Flower Recognition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
 
 **Context :** 
 This dataset contains 4242 images of flowers.
